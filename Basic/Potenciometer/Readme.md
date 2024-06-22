@@ -1,5 +1,3 @@
-Claro! Aqui está a explicação detalhada do código que você pode usar para o GitHub:
-
 ---
 
 # MIDI Potentiometer Controller
