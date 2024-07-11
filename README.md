@@ -23,4 +23,4 @@ Referencias que serviram de base para esse projeto acontecer:
 
 [Projeto de Nathan I3 para uma wing para gma3](https://www.thingiverse.com/thing:6464653);
 
-[Canal do Youtube do deus do MIDI com arduino Nerd Musician](https://www.youtube.com/@NerdMusician)
+[Canal do Youtube do deus do MIDI com arduino Nerd Musician](https://www.youtube.com/@NerdMusician);
